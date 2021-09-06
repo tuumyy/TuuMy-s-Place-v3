@@ -1,0 +1,89 @@
+body {
+background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ) , url(../img/background.jpg) no-repeat center center fixed; 
+background-size: cover;
+background-size: cover;
+background-size: cover;
+}
+
+.wrapper {
+    min-height: 100%;
+    background-size: cover;
+}
+
+.content {
+    padding-top: 100px;
+}
+
+#logo img {
+    width: auto;
+}
+
+#logo {
+    text-align: center;
+}
+
+#icons {
+    margin-top: 50px;
+    text-align: center;  
+}
+
+#icons a {
+    text-decoration: none;
+}
+
+#icons img {
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+}
+
+#icons img:hover {
+    transform: scale(1.2);
+ 
+}
+
+.a4 {
+    padding-left: 45px;
+}
+
+.a3 {
+    padding-left: 45px;
+}
+
+.a2 {
+    padding-left: 45px;
+}
+
+.a1 {
+    padding-left: 45px;
+}
+
+
+.txt1 {
+    color: #ffff;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 15px;
+}
+
+.txt2 {
+    color: tomato;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 180px;
+}
+
+.txt3 {
+    color: #ffff;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 15px;
+}
+
+.txt4 {
+    color: tomato;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 180px;
+}
